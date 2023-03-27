@@ -4,7 +4,7 @@
     padding: 0;
     font-family: sans-serif;
     color: #fff;
-    
+
 }
 
 .fundo {
@@ -24,8 +24,7 @@
 
 .tituloCal {
     font-size: 20px;
-    text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px
-    
+    text-shadow: #000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px
 }
 
 .imgLogoGab {
@@ -94,11 +93,19 @@
 }
 
 
-.creditos{
+.creditos {
     font-size: 20px;
     text-align: center;
-    text-shadow:#a60e97 1px -1px, #0d9a43 -1px 1px, #ee0404 1px 1px, #e3a107 -1px -1px;
+    text-shadow: #a60e97 1px -1px, #0d9a43 -1px 1px, #ee0404 1px 1px, #e3a107 -1px -1px;
     color: #000000;
 
+    padding-top: 10px;
+}
+
+.VersãoApp {
+    font-size: 13px;
+    text-align: center;
+    color: #000000;
+    
     padding-top: 10px;
 }
