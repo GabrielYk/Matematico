@@ -29,5 +29,5 @@ function calcular() {
 
 
 function emBreve() {
-    alert("Essa funcionalidade será implementanda em uma atualização futura");
+    alert("Essa funcionalidade será implementada em uma atualização futura.");
 }
